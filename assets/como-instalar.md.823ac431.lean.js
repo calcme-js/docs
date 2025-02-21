@@ -1,1 +1,0 @@
-import{_ as a,c as s,o,a as e}from"./app.361a1bf1.js";const u=JSON.parse('{"title":"Como instalar?","description":"","frontmatter":{},"headers":[],"relativePath":"como-instalar.md"}'),n={name:"como-instalar.md"},t=e("",3),l=[t];function i(c,r,p,d,_,m){return o(),s("div",null,l)}const b=a(n,[["render",i]]);export{u as __pageData,b as default};
