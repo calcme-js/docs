@@ -1,7 +1,7 @@
 
 # Como instalar?
 
-Para instalar o calcme-api, siga os passos abaixo:
+Para instalar o calcme-js, siga os passos abaixo:
 
 1. **Pré-requisitos**: Certifique-se de ter o Node.js e o npm (ou Yarn) instalados em seu sistema.
     Caso não esteja, instale o NodeJS [baixando aqui](https://nodejs.org/en/download).

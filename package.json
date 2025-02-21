@@ -1,9 +1,9 @@
 {
-  "name": "calcmeapi-docs",
+  "name": "calcmejs-docs",
   "version": "1.0.0",
-  "description": "The documentation repository for calcme-api",
+  "description": "The documentation repository for calcme-js",
   "main": "index.js",
-  "repository": "https://github.com/calcme-api/docs",
+  "repository": "https://github.com/calcme-js/docs",
   "author": "icleitoncosta",
   "license": "MIT",
   "scripts": {

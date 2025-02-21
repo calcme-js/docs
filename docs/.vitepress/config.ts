@@ -15,7 +15,7 @@ const sidebar: DefaultTheme.Sidebar = [
 ];
 
 export default defineConfig({
-  title: "CalcMe-API",
+  title: "CalcMe-JS",
   base: process.env.BASE_URL || "/",
   markdown: {},
   themeConfig: {
@@ -30,11 +30,11 @@ export default defineConfig({
       },
       {
         text: "API Reference",
-        link: "https://calcme-api.github.io/docs/reference/index.html",
+        link: "https://calcme-js.github.io/docs/reference/index.html",
       },
       {
         text: "GitHub",
-        link: "https://github.com/icleitoncosta/calcme-api",
+        link: "https://github.com/icleitoncosta/calcme-js",
       },
     ],
     sidebar,

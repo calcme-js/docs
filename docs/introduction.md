@@ -1,6 +1,6 @@
 # Introdução
 
-Bem-vindo ao **calcme-api**, um projeto open-source desenvolvido em Node.js para integrar e exportar funções do sistema CalcMe, uma plataforma de gestão amplamente utilizada por gráficas e empresas de comunicação visual. Este projeto permite que desenvolvedores criem APIs personalizadas ou integrem funcionalidades do CalcMe em suas próprias aplicações, como orçamentos, controle de produção e gestão financeira. Você pode encontrá-lo no [GitHub](https://github.com/icleitoncosta/calcme-api).
+Bem-vindo ao **calcme-js**, um projeto open-source desenvolvido em Node.js para integrar e exportar funções do sistema CalcMe, uma plataforma de gestão amplamente utilizada por gráficas e empresas de comunicação visual. Este projeto permite que desenvolvedores criem APIs personalizadas ou integrem funcionalidades do CalcMe em suas próprias aplicações, como orçamentos, controle de produção e gestão financeira. Você pode encontrá-lo no [GitHub](https://github.com/icleitoncosta/calcme-js).
 
 ## O que é e para quem serve?
 
